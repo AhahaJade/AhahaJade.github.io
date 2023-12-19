@@ -1,15 +1,20 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
+title: Photos of the Year 2023!
+date: '2023-12-18'
 summary: Easily blog from Jupyter notebooks!
+lightgallery: true
+private: true
+layout: gallery
 ---
-
+{{ partial "image-gallery" (dict "context" . "gallery_dir" "album") }}
 
 ```python
 from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 ```
-
+* ![Image 1](http://example.com/image1.jpg)
+* [![Image 2](http://example.com/image2.jpg)](http://example.com/image2_full.jpg)
+* ![](http://example.com/image3.jpg)
     
 ![png](output_1_0.png)
     
