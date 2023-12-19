@@ -9,10 +9,10 @@ summary: Precious memories help me define my life meanings.
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2023-12-19T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-12-19T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -35,8 +35,7 @@ tags:
   - photos
 
 categories:
-  - Demo
-  - 教程
+  - photos
 ---
 
 <!-- ```python
@@ -45,4 +44,4 @@ print('hello')
 ``` -->
 
 
-- 📚 [**Photos in Hong Kong in 2023**](https://www.notion.so/Time-on-Earth-ec1b478fe71a43f3a0d73561a7f5b30a)
+- 📚 [**Photos in Hong Kong in 2023**](https://bead-goal-8a1.notion.site/Time-on-Earth-ec1b478fe71a43f3a0d73561a7f5b30a?pvs=25)

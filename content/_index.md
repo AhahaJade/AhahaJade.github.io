@@ -236,7 +236,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I like exchange ideas with peers. I enjoy understanding the personalities of different individuals.
+        Look forward to your messages.
       # Contact (add or remove contact options as necessary)
       email: limeixuan1997@outlook.com
       # phone: 888 888 88 88
@@ -254,31 +254,31 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '22.352'
-        longitude: '114.186'  
-      contact_links:
-        # - icon: twitter
-        #   icon_pack: fab
-        #   name: DM Me
-        #   link: 'https://twitter.com/Twitter'
-        # - icon: skype
-        #   icon_pack: fab
-        #   name: Skype Me
-        #   link: 'skype:echo123?call'
-        # - icon: video
-        #   icon_pack: fas
-        #   name: Zoom Me
-        #   link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+        latitude: '22.35282'
+        longitude: '114.1869'  
+      # contact_links:
+      #   # - icon: twitter
+      #   #   icon_pack: fab
+      #   #   name: DM Me
+      #   #   link: 'https://twitter.com/Twitter'
+      #   # - icon: skype
+      #   #   icon_pack: fab
+      #   #   name: Skype Me
+      #   #   link: 'skype:echo123?call'
+      #   # - icon: video
+      #   #   icon_pack: fas
+      #   #   name: Zoom Me
+      #   #   link: 'https://zoom.com'
+      # # Automatically link email and phone or display as text?
+      # autolink: true
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
