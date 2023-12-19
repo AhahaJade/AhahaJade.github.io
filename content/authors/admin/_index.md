@@ -22,7 +22,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: City University of Hong Kong
-    url: hhttps://www.cityu.edu.hk/zh-hk
+    url: https://www.cityu.edu.hk/zh-hk
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current research interests include challenges faced by modern power systems and the application of complex networks.
@@ -32,6 +32,7 @@ interests:
   - Power Systems
   - Inverter-based Resources
   - Complex Networks
+  - Smart Grid
 
 # Education to show in About widget
 education:

@@ -50,6 +50,9 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
+        {{% callout note %}}
+        I aspire to approach my work in a <strong>systematic manner</strong> within this field. Each problem pertaining to my first-authored work has filled me with <strong>great excitement</strong> over a certain period of time. I have provided a brief comment for each publication I contributed to.
+        {{% /callout %}}
       filters:
         folders:
           - publication
