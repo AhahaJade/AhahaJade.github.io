@@ -1,6 +1,6 @@
 ---
 title: Time on Earth
-subtitle: Earth is a great place.
+subtitle: Earth is a great place. I take photos to remember the time!
 
 # Summary for listings and search engines
 summary: Earth is a great place. I take photos to remember the time!
