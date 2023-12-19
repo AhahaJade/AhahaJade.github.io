@@ -239,7 +239,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Look forward to your messages.
+        Look forward to your messages. Welcome collaboration and discussion!
       # Contact (add or remove contact options as necessary)
       email: limeixuan1997@outlook.com
       # phone: 888 888 88 88
