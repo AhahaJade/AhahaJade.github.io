@@ -2,9 +2,7 @@
 title: Photos of the Year 2023!
 date: '2023-12-18'
 summary: Easily blog from Jupyter notebooks!
-lightgallery: true
 private: true
-layout: gallery
 ---
 {{ partial "image-gallery" (dict "context" . "gallery_dir" "album") }}
 
