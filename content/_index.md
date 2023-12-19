@@ -236,9 +236,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        I like exchange ideas with peers. I enjoy understanding the personalities of different individuals.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: limeixuan1997@outlook.com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
@@ -254,8 +254,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '22.352'
+        longitude: '114.186'  
       contact_links:
         # - icon: twitter
         #   icon_pack: fab
