@@ -1,9 +1,9 @@
 ---
 title: Time on Earth
-subtitle: Precious memories help me define my life meanings.
+subtitle: Earth is a great place.
 
 # Summary for listings and search engines
-summary: Precious memories help me define my life meanings.
+summary: Earth is a great place.
 
 # Link this post with a project
 projects: []
