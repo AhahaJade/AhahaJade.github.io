@@ -3,7 +3,8 @@ title: Measuring Hong Kong with Footsteps
 subtitle: The scerenity of the journey and the scenery along the way
 
 # Summary for listings and search engines
-summary: Earth is a great place. I take photos to remember the time!
+summary: The scerenity of the journey and the scenery along the way.
+
 
 # Link this post with a project
 projects: []
