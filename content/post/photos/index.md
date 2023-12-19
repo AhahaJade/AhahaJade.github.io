@@ -3,7 +3,7 @@ title: Time on Earth
 subtitle: Earth is a great place.
 
 # Summary for listings and search engines
-summary: Earth is a great place.
+summary: Earth is a great place. I take photos to remember the time!
 
 # Link this post with a project
 projects: []
@@ -44,4 +44,6 @@ print('hello')
 ``` -->
 
 
-- 📚 [**Photos in Hong Kong in 2023**](https://bead-goal-8a1.notion.site/Time-on-Earth-ec1b478fe71a43f3a0d73561a7f5b30a?pvs=25)
+- 📚 [**CityU in my eye!**](https://500px.com/p/jrmrnhghd6/galleries/hk-university)
+- 📚 [**Fragments of daily life in 2022!**](https://500px.com/p/jrmrnhghd6/galleries/street2022)
+- 📚 [**Fragments of daily life in 2023!**](https://500px.com/p/jrmrnhghd6/galleries/street2023)
