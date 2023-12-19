@@ -28,6 +28,7 @@ tags:
 - cascading failures
 - power systems
 - steady-state
+- voltage collapse
 featured: false
 
 links:
@@ -70,3 +71,8 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}} -->
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+
+## Author Comment
+
+This work can ignite numerous of possiblities in cascading failure analysis in power systems. 🦄✨**
+
