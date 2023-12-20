@@ -8,6 +8,8 @@ summary: Earth is a great place. I take photos to remember the time!
 # Link this post with a project
 projects: []
 
+weight: 1
+
 # Date published
 date: '2023-12-19T00:00:00Z'
 

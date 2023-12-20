@@ -1,9 +1,11 @@
 ---
 title: Measuring Hong Kong with Footsteps
-subtitle: The scerenity of the journey and the scenery along the way
+subtitle: The scerenity of the journey and the scenery along the way.
 
 # Summary for listings and search engines
 summary: The scerenity of the journey and the scenery along the way.
+
+weight: 2
 
 
 # Link this post with a project
@@ -19,7 +21,7 @@ lastmod: '2023-12-19T00:00:00Z'
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
