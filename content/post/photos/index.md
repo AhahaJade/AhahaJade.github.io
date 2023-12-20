@@ -48,3 +48,5 @@ Some people say photography is a form of documentation, others say it's a means 
 - 📚 [**CityU in my eye!**](https://500px.com/p/jrmrnhghd6/galleries/hk-university)
 - :tent: [**Fragments of daily life in 2022!**](https://500px.com/p/jrmrnhghd6/galleries/street2022)
 - :smirk: [**Fragments of daily life in 2023!**](https://500px.com/p/jrmrnhghd6/galleries/street2023)
+
+For privacy concern, the albums focused on urban exploration.
