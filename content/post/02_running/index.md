@@ -39,16 +39,36 @@ tags:
 
 categories:
   - sports
+
+gallery_item:
+  - album: running
+    image: running1.jpg
+    caption: Tai Wai - Tai Po
+  - album: running
+    image: running2.jpg
+    caption: CityU - Tsing Yi
+  - album: running
+    image: running3.jpg
+    caption: CityU
 ---
 
 <!-- ```python
 import libr
 print('hello')
 ``` -->
-![alt Tai Wai - Tai Po](running1.jpg)
+<!-- ![alt Tai Wai - Tai Po](running1.jpg)
 ![alt CityU - Tsing Yi](running2.jpg)
-![alt CityU](running3.jpg)
+![alt CityU](running3.jpg) -->
   <!-- < img src="running1.jpg" alt="image1">
   < img src="running2.jpg" alt="image2">
   < img src="running3.jpg" alt="image2"> -->
 
+<!-- {{< ggallery class="content-gallery" >}}
+  {{< iimg src="running1.jpg" >}}
+  {{< iimg src="running1.jpg" >}}
+  {{< iimg src="running1.jpg" >}}
+{{< /ggallery >}} -->
+
+{{< gallery album="running" >}}
+
+<!-- {{< slider dir="running">}} -->

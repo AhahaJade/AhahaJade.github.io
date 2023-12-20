@@ -6,5 +6,5 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.6
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231108141515-0478cf6921f9
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2
-	github.com/nicokaiser/hugo-theme-gallery/v2 v2.0.0 // indirect
+	github.com/gethugothemes/hugo-modules/gallery-slider v0.0.0-20231213094845-42e6b5af6245 // indirect
 )
