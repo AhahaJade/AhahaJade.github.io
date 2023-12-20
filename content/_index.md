@@ -72,6 +72,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
