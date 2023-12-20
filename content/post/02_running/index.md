@@ -52,23 +52,4 @@ gallery_item:
     caption: CityU
 ---
 
-<!-- ```python
-import libr
-print('hello')
-``` -->
-<!-- ![alt Tai Wai - Tai Po](running1.jpg)
-![alt CityU - Tsing Yi](running2.jpg)
-![alt CityU](running3.jpg) -->
-  <!-- < img src="running1.jpg" alt="image1">
-  < img src="running2.jpg" alt="image2">
-  < img src="running3.jpg" alt="image2"> -->
-
-<!-- {{< ggallery class="content-gallery" >}}
-  {{< iimg src="running1.jpg" >}}
-  {{< iimg src="running1.jpg" >}}
-  {{< iimg src="running1.jpg" >}}
-{{< /ggallery >}} -->
-
 {{< gallery album="running" >}}
-
-<!-- {{< slider dir="running">}} -->
