@@ -51,12 +51,13 @@ sections:
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
         {{% callout note %}}
-        I aspire to approach my work in a <strong>systematic manner</strong> within this field. Each problem pertaining to my first-authored work has filled me with <strong>great excitement</strong> over a certain period of time. I have provided a brief comment for each publication I contributed to.
+        I aspire to approach my work in a <strong>systematic manner</strong> within this field. Each work has filled me with <strong>great excitement</strong> over a certain period of time. I have provided a brief comment for each publication I contributed to.
         {{% /callout %}}
       filters:
         folders:
           - publication
         exclude_featured: false
+        tag: ""
     design:
       columns: '2'
       view: citation
@@ -192,16 +193,16 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  - block: collection
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
