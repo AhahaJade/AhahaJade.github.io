@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I enjoy delving into the essence of problems and appreciate the thinking involved in physics. My current research interests include the challenges faced by modern power systems and the application of complex networks. Despite the long-standing development of power systems, numerous unresolved issues persist due to their inherent complexity. Also, power systems of the modern era are experiencing substantial transformations. I hope I can make a valuable contribution to the establishment of this critical infrastructure.
+My current research interests include the challenges faced by modern power systems and the application of complex networks. Despite the long-standing development of power systems, numerous unresolved issues persist due to their inherent complexity. Also, power systems of the modern era are experiencing substantial transformations. I hope I can make a valuable contribution to the establishment of this critical infrastructure.
 {style="text-align: justify;"}
