@@ -41,16 +41,16 @@ categories:
   - sports
 
 gallery_item:
-  - album: running
+  - album: SC
     image: SC1.jpg
     caption: ME
-  - album: running
+  - album: SC
     image: SC2.jpg
     caption: VIEW1
-  - album: running
+  - album: SC
     image: SC3.jpg
     caption: VIEW2
-  - album: running
+  - album: SC
     image: SC4.JPG
     caption: record
 ---
