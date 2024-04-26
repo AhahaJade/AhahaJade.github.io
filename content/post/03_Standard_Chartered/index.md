@@ -40,19 +40,19 @@ tags:
 categories:
   - sports
 
-gallery_item:
-  - album: SC
-    image: SC1.jpg
-    caption: ME
-  - album: SC
-    image: SC2.jpg
-    caption: VIEW1
-  - album: SC
-    image: SC3.jpg
-    caption: VIEW2
-  - album: SC
-    image: SC4.JPG
-    caption: record
+# gallery_item:
+#   - album: SC
+#     image: SC1.jpg
+#     caption: ME
+#   - album: SC
+#     image: SC2.jpg
+#     caption: VIEW1
+#   - album: SC
+#     image: SC3.jpg
+#     caption: VIEW2
+#   - album: SC
+#     image: SC4.JPG
+#     caption: record
 ---
 
 {{< gallery album="SC" >}}
