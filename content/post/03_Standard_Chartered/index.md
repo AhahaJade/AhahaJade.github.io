@@ -28,14 +28,14 @@ featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
-  placement: 2
+  placement: 3
   preview_only: false
 
 authors:
   - Jade
 
 tags:
-  - sports
+  - sports2
 
 categories:
   - sports
