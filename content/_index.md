@@ -61,24 +61,13 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
   - block: markdown
     id: gallery
     content:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="gallery" >}}
+        {{< gallery album="gallery_1" >}}
     design:
       columns: '1'
   # - block: experience
@@ -193,16 +182,16 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
+  - block: collection
+    id: talks
+    content:
+      title: Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
