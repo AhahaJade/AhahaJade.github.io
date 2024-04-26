@@ -55,4 +55,4 @@ categories:
 #     caption: record
 ---
 
-{{< gallery album="SC" >}}
+{{< gallery album="running2" >}}
