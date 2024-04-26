@@ -62,15 +62,6 @@ sections:
       columns: '2'
       view: citation
   - block: markdown
-    id: gallery
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="gallery_1" >}}
-    design:
-      columns: '1'
-  - block: markdown
     id: certificate
     content:
       title: Certificate
@@ -79,6 +70,15 @@ sections:
         {{< gallery album="certificate" >}}
     design:
       columns: '2'
+  - block: markdown
+    id: gallery
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="gallery_1" >}}
+    design:
+      columns: '1'
   # - block: experience
   #   content:
   #     title: Time on Earth
