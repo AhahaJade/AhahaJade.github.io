@@ -35,7 +35,7 @@ authors:
   - Jade
 
 tags:
-  - sports2
+  - sports
 
 categories:
   - sports

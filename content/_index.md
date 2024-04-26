@@ -70,6 +70,15 @@ sections:
         {{< gallery album="gallery_1" >}}
     design:
       columns: '1'
+  - block: markdown
+    id: certificate
+    content:
+      title: Certificate
+      subtitle: ''
+      text: |-
+        {{< gallery album="certificate" >}}
+    design:
+      columns: '2'
   # - block: experience
   #   content:
   #     title: Time on Earth
