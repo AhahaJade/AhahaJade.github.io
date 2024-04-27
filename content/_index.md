@@ -182,29 +182,29 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  - block: collection
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  # - block: collection
+  - block: collection
     id: posts
     content:
       title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -229,10 +229,12 @@ sections:
     content:
       title: Gallery
       subtitle: ''
+      count: 9
       text: |-
         {{< gallery album="gallery_1" >}}
     design:
       columns: '1'
+      view: list
   - block: contact
     id: contact
     content:
