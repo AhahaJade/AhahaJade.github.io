@@ -70,15 +70,6 @@ sections:
         {{< gallery album="certificate" >}}
     design:
       columns: '2'
-  - block: markdown
-    id: gallery
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="gallery_1" >}}
-    design:
-      columns: '1'
   # - block: experience
   #   content:
   #     title: Time on Earth
@@ -233,6 +224,15 @@ sections:
       # Choose a layout view
       view: card
       columns: '2'
+  - block: markdown
+    id: gallery
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="gallery_1" >}}
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:
