@@ -1,5 +1,5 @@
 ---
-title: My Favorite Book of 2023
+title: My Favorite Book in 2023
 subtitle: Living to Tell the Tale
 
 # Summary for listings and search engines
