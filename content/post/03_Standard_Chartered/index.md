@@ -5,7 +5,7 @@ subtitle: The scerenity of the journey and the scenery along the way.
 # Summary for listings and search engines
 summary: The scerenity of the journey and the scenery along the way.
 
-weight: 1
+weight: 3
 
 
 # Link this post with a project
