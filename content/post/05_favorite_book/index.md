@@ -5,7 +5,7 @@ subtitle: Living to Tell the Tale
 # Summary for listings and search engines
 summary: Living to Tell the Tale
 
-weight: 1
+weight: 2
 
 
 # Link this post with a project
@@ -21,15 +21,15 @@ lastmod: '2024-04-27T00:00:00Z'
 draft: false
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+#   focal_point: ''
+#   placement: 3
+#   preview_only: false
 
 authors:
   - Jade

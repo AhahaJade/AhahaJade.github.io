@@ -14,4 +14,4 @@ header:
   caption: ''
   image: ''
 ---
-- 📚 [**Personalize your site**](https://www.notion.so/Time-on-Earth-ec1b478fe71a43f3a0d73561a7f5b30a)
+<!-- - 📚 [**Personalize your site**](https://www.notion.so/Time-on-Earth-ec1b478fe71a43f3a0d73561a7f5b30a) -->
