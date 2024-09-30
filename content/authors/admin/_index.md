@@ -17,22 +17,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: City University of Hong Kong
-    url: https://www.cityu.edu.hk/zh-hk
+  - name: National University of Defense and Technology
+    url: https://www.nudt.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current research interests include challenges faced by modern power systems and the application of complex networks.
 
 # Interests to show in About widget
 interests:
-  - Power Systems
-  - Inverter-based Resources
+  - Networked Systems
   - Complex Networks
-  - Smart Grid
+  - Resilience 
+  - Flexibility 
 
 # Education to show in About widget
 education:
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-My current research interests include the challenges faced by modern power systems and the application of complex networks. Despite the long-standing development of power systems, numerous unresolved issues persist due to their inherent complexity. Also, power systems of the modern era are experiencing substantial transformations. I hope I can make a valuable contribution to the establishment of this critical infrastructure.
+My current research interests include the challenges faced by modern networked systems. The size of multiple modern infrastructure systems are scaling up, bringing complexity of their management and mainteance. Nonetheless, the requirement for flexibility of some networked systems is also increasing. Providing deeper understanding of large-scale networked systems is imperative.
 {style="text-align: justify;"}
