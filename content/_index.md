@@ -243,7 +243,7 @@ sections:
       text: |-
         Look forward to your messages. Discussions are welcomed!
       # Contact (add or remove contact options as necessary)
-      email: limeixuan1997@outlook.com
+      email: limeixuan1997@outlook.com or li.meixuan1@nudt.edu.cn
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
