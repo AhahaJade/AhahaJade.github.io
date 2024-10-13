@@ -25,14 +25,12 @@ organizations:
     url: https://www.nudt.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include challenges faced by modern power systems and the application of complex networks.
+bio: I am currently a Lecturer in National University of Defense Technology.
 
 # Interests to show in About widget
 interests:
   - Networked Systems
   - Complex Networks
-  - Resilience 
-  - Flexibility 
 
 # Education to show in About widget
 education:
@@ -120,6 +118,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-My current research interests include the challenges faced by modern networked systems. The size of multiple modern infrastructure systems are scaling up, bringing complexity of their management and mainteance. Nonetheless, the requirement for flexibility of some networked systems is also increasing. Providing deeper understanding of large-scale networked systems is imperative.
+I am currently a lecturer at the National University of Defense Technology. During my PhD studies, I have been awarded the Star Reviewer distinction for IEEE Transactions on Energy Conversion and the Outstanding Academic Performance Award from the City University of Hong Kong. Details of my publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=GdPMxCAAAAAJ).
 {style="text-align: justify;"}

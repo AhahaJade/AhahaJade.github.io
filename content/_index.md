@@ -42,25 +42,25 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    id: publication
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-        {{% callout note %}}
-        I aspire to approach my work in a <strong>systematic manner</strong> within this field. Each work has filled me with <strong>great excitement</strong> over a certain period of time. I have provided a brief comment for each publication I contributed to.
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-        tag: ""
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #   id: publication
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #       {{% callout note %}}
+  #       I aspire to approach my work in a <strong>systematic manner</strong> within this field. Each work has filled me with <strong>great excitement</strong> over a certain period of time. I have provided a brief comment for each publication I contributed to.
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #       tag: ""
+  #   design:
+  #     columns: '2'
+  #     view: citation
   - block: markdown
     id: certificate
     content:
