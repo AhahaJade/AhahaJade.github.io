@@ -29,8 +29,7 @@ bio: I am currently a Lecturer in National University of Defense Technology.
 
 # Interests to show in About widget
 interests:
-  - Networked Systems
-  - Complex Networks
+  - Complex Systems
 
 # Education to show in About widget
 education:
