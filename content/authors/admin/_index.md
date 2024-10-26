@@ -21,7 +21,7 @@ role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National University of Defense and Technology
+  - name: National University of Defense Technology
     url: https://www.nudt.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
